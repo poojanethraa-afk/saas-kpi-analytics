@@ -1,0 +1,501 @@
+CUSTOMER_ID,COMPANY_NAME,COUNTRY,TRADE,SALES_TEAM,SIGNUP_DATE,CRM_STATUS,PLAN,CRM_MRR,CURRENCY
+C0001,Richter Haustechnik GmbH,DE,Tiefbau,Nord,2025-01-01,Active,Regional,149,EUR
+C0002,Fischer Garten- und Landschaftsbau,CH,Elektro,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0003,Wolf Elektro GmbH,DE,Maler,West,2025-01-01,Active,Basis,89,EUR
+C0004,Mueller Bau AG,DE,Maler,Ost,2025-01-01,Active,Basis,89,EUR
+C0005,Richter Bauunternehmung,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Churned,Regional,159,CHF
+C0006,Wolf Malerbetrieb,DE,Hochbau,Nord,2025-01-01,Churned,Bundesweit,299,EUR
+C0007,Klein Garten- und Landschaftsbau,DE,Maler,West,2025-01-01,Active,Bundesweit,299,EUR
+C0008,Schmidt Elektro GmbH,DE,Hochbau,Ost,2025-01-01,Churned,Regional,149,EUR
+C0009,Wolf Bau AG,CH,Tiefbau,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0010,Weber Elektro GmbH,DE,Tiefbau,Ost,2025-01-01,Churned,Basis,89,EUR
+C0011,Keller Bauunternehmung,DE,Tiefbau,Ost,2025-01-01,Active,Basis,89,EUR
+C0012,Weber Bau GmbH,DE,Dach,Nord,2025-01-01,Active,Bundesweit,299,EUR
+C0013,Klein Bau AG,DE,Tiefbau,Nord,2025-01-01,Churned,Basis,89,EUR
+C0014,Fischer Bau AG,DE,Maler,Nord,2025-01-01,Active,Regional,149,EUR
+C0015,Becker Garten- und Landschaftsbau,CH,Hochbau,Schweiz,2025-01-01,Active,Regional,159,CHF
+C0016,Neumann Bauunternehmung,DE,Dach,West,2025-01-01,Active,Regional,149,EUR
+C0017,Hoffmann Tiefbau GmbH,DE,Dach,West,2025-01-01,Churned,Bundesweit,299,EUR
+C0018,Wolf Malerbetrieb,DE,Dach,West,2025-01-01,Active,Regional,149,EUR
+C0019,Schwarz Malerbetrieb,DE,Dach,Sued,2025-01-01,Active,Regional,149,EUR
+C0020,Hofer Haustechnik GmbH,DE,Maler,Nord,2025-01-01,Active,Bundesweit,299,EUR
+C0021,Braun Garten- und Landschaftsbau,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0022,Neumann Dachbau KG,DE,Sanitaer/Heizung,Nord,2025-01-01,Churned,Bundesweit,299,EUR
+C0023,Becker Bau GmbH,DE,Elektro,Ost,2025-01-01,Active,Regional,149,EUR
+C0024,Fischer Elektro GmbH,DE,Dach,Sued,2025-01-01,Active,Basis,89,EUR
+C0025,Schmidt Tiefbau GmbH,DE,GaLaBau,West,2025-01-01,Active,Basis,89,EUR
+C0026,Braun Malerbetrieb,DE,Hochbau,West,2025-01-01,Churned,Basis,89,EUR
+C0027,Mueller Malerbetrieb,DE,Sanitaer/Heizung,West,2025-01-01,Active,Regional,149,EUR
+C0028,Hoffmann Bau AG,DE,Tiefbau,Ost,2025-01-01,Churned,Basis,89,EUR
+C0029,Fischer Bauunternehmung,AT,Sanitaer/Heizung,Oesterreich,2025-01-01,Active,Basis,89,EUR
+C0030,Wagner Dachbau KG,DE,Hochbau,Sued,2025-01-01,Churned,Basis,89,EUR
+C0031,Koch Bau AG,CH,GaLaBau,Schweiz,2025-01-01,Active,Regional,159,CHF
+C0032,Hofer Malerbetrieb,AT,Elektro,Oesterreich,2025-01-01,Churned,Regional,149,EUR
+C0033,Klein Garten- und Landschaftsbau,DE,Elektro,West,2025-01-01,Active,Regional,149,EUR
+C0034,Huber Bau AG,DE,Dach,Ost,2025-01-01,Active,Regional,149,EUR
+C0035,Hofer Garten- und Landschaftsbau,DE,Hochbau,West,2025-01-01,Churned,Basis,89,EUR
+C0036,Braun Bau AG,DE,Tiefbau,West,2025-01-01,Churned,Basis,89,EUR
+C0037,Keller Dachbau KG,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0038,Wagner Malerbetrieb,DE,Hochbau,West,2025-01-01,Active,Regional,149,EUR
+C0039,Schmidt Bau AG,DE,Tiefbau,West,2025-01-01,Active,Bundesweit,299,EUR
+C0040,Koch Malerbetrieb,DE,GaLaBau,West,2025-01-01,Active,Bundesweit,299,EUR
+C0041,Klein Bau GmbH,DE,Sanitaer/Heizung,Ost,2025-01-01,Active,Regional,149,EUR
+C0042,Hofer Bau GmbH,DE,GaLaBau,West,2025-01-01,Active,Basis,89,EUR
+C0043,Schwarz Bauunternehmung,DE,Elektro,Sued,2025-01-01,Active,Basis,89,EUR
+C0044,Schmidt Dachbau KG,DE,Dach,Ost,2025-01-01,Active,Basis,89,EUR
+C0045,Neumann Bau GmbH,DE,Dach,Sued,2025-01-01,Active,Bundesweit,299,EUR
+C0046,Wagner Bauunternehmung,DE,Elektro,Nord,2025-01-01,Active,Bundesweit,299,EUR
+C0047,Klein Malerbetrieb,AT,Maler,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0048,Hoffmann Garten- und Landschaftsbau,CH,Dach,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0049,Braun Bau GmbH,CH,Elektro,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0050,Klein Tiefbau GmbH,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0051,Hofer Garten- und Landschaftsbau,DE,Elektro,Sued,2025-01-01,Active,Regional,149,EUR
+C0052,Neumann Bau AG,DE,Dach,Nord,2025-01-01,Active,Basis,89,EUR
+C0053,Klein Tiefbau GmbH,CH,Tiefbau,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0054,Wolf Tiefbau GmbH,DE,Tiefbau,Sued,2025-01-01,Active,Basis,89,EUR
+C0055,Wolf Malerbetrieb,DE,GaLaBau,Ost,2025-01-01,Active,Basis,89,EUR
+C0056,Schwarz Dachbau KG,DE,Elektro,Nord,2025-01-01,Active,Basis,89,EUR
+C0057,Braun Bauunternehmung,AT,Elektro,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0058,Becker Malerbetrieb,DE,Hochbau,West,2025-01-01,Active,Basis,89,EUR
+C0059,Schmidt Malerbetrieb,DE,Sanitaer/Heizung,Sued,2025-01-01,Active,Bundesweit,299,EUR
+C0060,Wolf Haustechnik GmbH,DE,Tiefbau,Nord,2025-01-01,Active,Regional,149,EUR
+C0061,Weber Bau GmbH,DE,Elektro,Ost,2025-01-01,Churned,Regional,149,EUR
+C0062,Weber Bauunternehmung,DE,Elektro,Sued,2025-01-01,Active,Bundesweit,299,EUR
+C0063,Wagner Bau AG,DE,Maler,Nord,2025-01-01,Active,Regional,149,EUR
+C0064,Schwarz Tiefbau GmbH,AT,Tiefbau,Oesterreich,2025-01-01,Active,Basis,89,EUR
+C0065,Schmidt Bau AG,DE,Maler,Ost,2025-01-01,Active,Basis,89,EUR
+C0066,Richter Elektro GmbH,DE,Hochbau,West,2025-01-01,Active,Regional,149,EUR
+C0067,Klein Dachbau KG,DE,Sanitaer/Heizung,Sued,2025-01-01,Active,Basis,89,EUR
+C0068,Weber Malerbetrieb,DE,Dach,Sued,2025-01-01,Active,Basis,89,EUR
+C0069,Klein Bauunternehmung,DE,Hochbau,West,2025-01-01,Active,Basis,89,EUR
+C0070,Koch Garten- und Landschaftsbau,DE,Elektro,Sued,2025-01-01,Active,Regional,149,EUR
+C0071,Becker Tiefbau GmbH,DE,GaLaBau,Nord,2025-01-01,Active,Basis,89,EUR
+C0072,Fischer Garten- und Landschaftsbau,AT,Tiefbau,Oesterreich,2025-01-01,Churned,Basis,89,EUR
+C0073,Keller Garten- und Landschaftsbau,CH,GaLaBau,Schweiz,2025-01-01,Active,Regional,159,CHF
+C0074,Klein Bau GmbH,DE,GaLaBau,Nord,2025-01-01,Active,Basis,89,EUR
+C0075,Wagner Bauunternehmung,DE,Tiefbau,Sued,2025-01-01,Active,Bundesweit,299,EUR
+C0076,Neumann Bauunternehmung,DE,Sanitaer/Heizung,Ost,2025-01-01,Active,Regional,149,EUR
+C0077,Koch Elektro GmbH,AT,Hochbau,Oesterreich,2025-01-01,Active,Basis,89,EUR
+C0078,Becker Garten- und Landschaftsbau,DE,Maler,Sued,2025-01-01,Churned,Regional,149,EUR
+C0079,Klein Bau GmbH,CH,Hochbau,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0080,Wolf Dachbau KG,DE,GaLaBau,Nord,2025-01-01,Churned,Bundesweit,299,EUR
+C0081,Neumann Elektro GmbH,DE,Hochbau,Sued,2025-01-01,Churned,Basis,89,EUR
+C0082,Koch Bau AG,DE,GaLaBau,Ost,2025-01-01,Active,Basis,89,EUR
+C0083,Mueller Garten- und Landschaftsbau,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0084,Wagner Tiefbau GmbH,AT,Hochbau,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0085,Mueller Dachbau KG,DE,Dach,Ost,2025-01-01,Churned,Regional,149,EUR
+C0086,Koch Bauunternehmung,DE,Tiefbau,Ost,2025-01-01,Active,Bundesweit,299,EUR
+C0087,Schmidt Tiefbau GmbH,AT,Maler,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0088,Hoffmann Bau GmbH,DE,Elektro,West,2025-01-01,Active,Regional,149,EUR
+C0089,Schwarz Malerbetrieb,DE,GaLaBau,Nord,2025-01-01,Active,Regional,149,EUR
+C0090,Huber Bauunternehmung,DE,Maler,West,2025-01-01,Active,Basis,89,EUR
+C0091,Wagner Elektro GmbH,CH,Hochbau,Schweiz,2025-01-01,Churned,Basis,95,CHF
+C0092,Braun Bau GmbH,AT,Hochbau,Oesterreich,2025-01-01,Churned,Basis,89,EUR
+C0093,Weber Bau GmbH,DE,Hochbau,West,2025-01-01,Active,Regional,149,EUR
+C0094,Becker Bau AG,DE,Dach,Ost,2025-01-01,Churned,Regional,149,EUR
+C0095,Schwarz Bau AG,AT,Elektro,Oesterreich,2025-01-01,Active,Bundesweit,299,EUR
+C0096,Hofer Malerbetrieb,DE,Tiefbau,Sued,2025-01-01,Active,Regional,149,EUR
+C0097,Klein Malerbetrieb,DE,Elektro,Ost,2025-01-01,Churned,Basis,89,EUR
+C0098,Braun Garten- und Landschaftsbau,AT,Sanitaer/Heizung,Oesterreich,2025-01-01,Churned,Basis,89,EUR
+C0099,Wolf Malerbetrieb,DE,Elektro,Sued,2025-01-01,Active,Regional,149,EUR
+C0100,Hofer Elektro GmbH,DE,Dach,Sued,2025-01-01,Active,Basis,89,EUR
+C0101,Weber Bau AG,AT,Sanitaer/Heizung,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0102,Huber Bau AG,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0103,Becker Tiefbau GmbH,DE,GaLaBau,Nord,2025-01-01,Active,Basis,89,EUR
+C0104,Huber Bauunternehmung,DE,Maler,Ost,2025-01-01,Active,Basis,89,EUR
+C0105,Becker Bauunternehmung,DE,Tiefbau,Ost,2025-01-01,Active,Regional,149,EUR
+C0106,Hofer Malerbetrieb,DE,GaLaBau,Sued,2025-01-01,Active,Basis,89,EUR
+C0107,Neumann Garten- und Landschaftsbau,DE,Tiefbau,Nord,2025-01-01,Active,Basis,89,EUR
+C0108,Wagner Tiefbau GmbH,DE,Sanitaer/Heizung,Sued,2025-01-01,Active,Regional,149,EUR
+C0109,Weber Malerbetrieb,DE,Maler,Ost,2025-01-01,Churned,Basis,89,EUR
+C0110,Braun Elektro GmbH,DE,Maler,West,2025-01-01,Active,Regional,149,EUR
+C0111,Mueller Tiefbau GmbH,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0112,Hofer Elektro GmbH,DE,Hochbau,Ost,2025-01-01,Active,Regional,149,EUR
+C0113,Koch Malerbetrieb,CH,Dach,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0114,Neumann Tiefbau GmbH,DE,Tiefbau,Ost,2025-01-01,Churned,Regional,149,EUR
+C0115,Keller Elektro GmbH,DE,Sanitaer/Heizung,Ost,2025-01-01,Active,Regional,149,EUR
+C0116,Keller Bauunternehmung,DE,Sanitaer/Heizung,West,2025-01-01,Active,Basis,89,EUR
+C0117,Fischer Elektro GmbH,AT,Maler,Oesterreich,2025-01-01,Active,Basis,89,EUR
+C0118,Schmidt Malerbetrieb,DE,Elektro,Nord,2025-01-01,Churned,Bundesweit,299,EUR
+C0119,Klein Tiefbau GmbH,DE,Hochbau,Sued,2025-01-01,Active,Basis,89,EUR
+C0120,Wolf Bau GmbH,DE,Sanitaer/Heizung,Nord,2025-01-01,Churned,Regional,149,EUR
+C0121,Wagner Elektro GmbH,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0122,Klein Bau GmbH,DE,Tiefbau,West,2025-01-01,Active,Bundesweit,299,EUR
+C0123,Koch Haustechnik GmbH,AT,Tiefbau,Oesterreich,2025-01-01,Churned,Basis,89,EUR
+C0124,Braun Haustechnik GmbH,AT,Elektro,Oesterreich,2025-01-01,Active,Basis,89,EUR
+C0125,Huber Tiefbau GmbH,DE,GaLaBau,Sued,2025-01-01,Active,Regional,149,EUR
+C0126,Schwarz Tiefbau GmbH,DE,Sanitaer/Heizung,Ost,2025-01-01,Active,Basis,89,EUR
+C0127,Wolf Elektro GmbH,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Active,Regional,159,CHF
+C0128,Becker Bauunternehmung,DE,Maler,Sued,2025-01-01,Active,Regional,149,EUR
+C0129,Schwarz Bau GmbH,CH,Tiefbau,Schweiz,2025-01-01,Churned,Regional,159,CHF
+C0130,Hoffmann Elektro GmbH,DE,Maler,Sued,2025-01-01,Churned,Regional,149,EUR
+C0131,Wolf Haustechnik GmbH,DE,Dach,West,2025-01-01,Active,Bundesweit,299,EUR
+C0132,Huber Haustechnik GmbH,DE,Hochbau,Nord,2025-01-01,Active,Regional,149,EUR
+C0133,Richter Elektro GmbH,DE,Sanitaer/Heizung,Ost,2025-01-01,Active,Basis,89,EUR
+C0134,Keller Haustechnik GmbH,DE,Hochbau,Nord,2025-01-01,Active,Basis,89,EUR
+C0135,Mueller Bauunternehmung,CH,Sanitaer/Heizung,Schweiz,2025-01-01,Active,Basis,95,CHF
+C0136,Wolf Elektro GmbH,DE,Hochbau,Ost,2025-01-01,Active,Basis,89,EUR
+C0137,Keller Tiefbau GmbH,AT,Sanitaer/Heizung,Oesterreich,2025-01-01,Active,Regional,149,EUR
+C0138,Hofer Haustechnik GmbH,DE,Sanitaer/Heizung,Sued,2025-01-01,Active,Basis,89,EUR
+C0139,Mueller Elektro GmbH,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0140,Neumann Bauunternehmung,DE,Maler,West,2025-01-01,Churned,Regional,149,EUR
+C0141,Richter Garten- und Landschaftsbau,DE,Dach,West,2025-01-01,Active,Basis,89,EUR
+C0142,Wolf Bau AG,DE,Tiefbau,Nord,2025-01-01,Active,Regional,149,EUR
+C0143,Hofer Haustechnik GmbH,DE,Elektro,West,2025-01-01,Active,Basis,89,EUR
+C0144,Hoffmann Tiefbau GmbH,CH,Hochbau,Schweiz,2025-01-01,Churned,Basis,95,CHF
+C0145,Koch Elektro GmbH,CH,Maler,Schweiz,2025-01-01,Churned,Bundesweit,319,CHF
+C0146,Wagner Elektro GmbH,CH,Maler,Schweiz,2025-01-01,Active,Regional,159,CHF
+C0147,Braun Bau AG,DE,Maler,Sued,2025-01-01,Churned,Basis,89,EUR
+C0148,Weber Bau AG,DE,Sanitaer/Heizung,Sued,2025-01-01,Churned,Basis,89,EUR
+C0149,Becker Tiefbau GmbH,DE,Elektro,Ost,2025-01-01,Active,Basis,89,EUR
+C0150,Hofer Haustechnik GmbH,CH,GaLaBau,Schweiz,2025-01-01,Active,Bundesweit,319,CHF
+C0151,Wagner Malerbetrieb,DE,Dach,West,2026-09-01,Active,Basis,89,EUR
+C0152,Koch Tiefbau GmbH,DE,GaLaBau,Ost,2026-04-01,Active,Basis,89,EUR
+C0153,Schmidt Bau GmbH,DE,Maler,Nord,2026-03-01,Active,Regional,149,EUR
+C0154,Huber Tiefbau GmbH,CH,Tiefbau,Schweiz,2026-06-01,Active,Regional,159,CHF
+C0155,Klein Bauunternehmung,DE,GaLaBau,West,2025-03-01,Active,Bundesweit,299,EUR
+C0156,Koch Bau GmbH,DE,Elektro,Ost,2025-12-01,Active,Basis,89,EUR
+C0157,Becker Malerbetrieb,DE,Tiefbau,West,2026-07-01,Active,Regional,149,EUR
+C0158,Wolf Bau AG,AT,Sanitaer/Heizung,Oesterreich,2026-03-01,Active,Basis,89,EUR
+C0159,Schmidt Bauunternehmung,DE,Dach,Nord,2026-04-01,Churned,Basis,89,EUR
+C0160,Wagner Bau AG,AT,Dach,Oesterreich,2026-05-01,Active,Bundesweit,299,EUR
+C0161,Koch Dachbau KG,DE,Dach,West,2026-06-01,Active,Bundesweit,299,EUR
+C0162,Hoffmann Elektro GmbH,CH,GaLaBau,Schweiz,2025-11-01,Active,Basis,95,CHF
+C0163,Huber Garten- und Landschaftsbau,AT,Maler,Oesterreich,2026-01-01,Active,Bundesweit,299,EUR
+C0164,Keller Bau AG,AT,Hochbau,Oesterreich,2026-07-01,Active,Basis,89,EUR
+C0165,Klein Bau GmbH,DE,Dach,Nord,2025-03-01,Active,Basis,89,EUR
+C0166,Hofer Elektro GmbH,DE,Maler,West,2026-07-01,Active,Basis,89,EUR
+C0167,Becker Bauunternehmung,AT,Hochbau,Oesterreich,2026-01-01,Active,Regional,149,EUR
+C0168,Klein Malerbetrieb,DE,Sanitaer/Heizung,Ost,2025-10-01,Active,Regional,149,EUR
+C0169,Mueller Bau AG,DE,Maler,West,2025-04-01,Active,Regional,149,EUR
+C0170,Koch Bau GmbH,DE,Maler,Sued,2026-09-01,Active,Bundesweit,299,EUR
+C0171,Keller Malerbetrieb,CH,Dach,Schweiz,2026-02-01,Active,Bundesweit,319,CHF
+C0172,Weber Elektro GmbH,DE,Maler,Sued,2025-12-01,Churned,Regional,149,EUR
+C0173,Weber Haustechnik GmbH,DE,Hochbau,Sued,2026-03-01,Active,Regional,149,EUR
+C0174,Keller Bau AG,DE,Elektro,West,2025-03-01,Active,Regional,149,EUR
+C0175,Klein Haustechnik GmbH,AT,Elektro,Oesterreich,2025-11-01,Active,Regional,149,EUR
+C0176,Schwarz Bauunternehmung,DE,GaLaBau,West,2025-02-01,Churned,Regional,149,EUR
+C0177,Schmidt Bauunternehmung,CH,Dach,Schweiz,2025-11-01,Active,Basis,95,CHF
+C0178,Huber Malerbetrieb,DE,Elektro,Nord,2025-11-01,Active,Regional,149,EUR
+C0179,Wolf Garten- und Landschaftsbau,DE,Tiefbau,West,2026-08-01,Active,Basis,89,EUR
+C0180,Richter Haustechnik GmbH,DE,GaLaBau,Sued,2025-09-01,Active,Regional,149,EUR
+C0181,Keller Bauunternehmung,DE,Hochbau,Nord,2025-04-01,Active,Bundesweit,299,EUR
+C0182,Koch Malerbetrieb,DE,Tiefbau,Nord,2025-09-01,Active,Regional,149,EUR
+C0183,Richter Bauunternehmung,DE,GaLaBau,West,2025-09-01,Active,Basis,89,EUR
+C0184,Huber Bau GmbH,DE,GaLaBau,Ost,2026-01-01,Active,Regional,149,EUR
+C0185,Fischer Elektro GmbH,CH,Dach,Schweiz,2026-04-01,Active,Basis,95,CHF
+C0186,Mueller Dachbau KG,AT,Hochbau,Oesterreich,2025-05-01,Active,Regional,149,EUR
+C0187,Becker Bauunternehmung,DE,Elektro,Ost,2026-05-01,Active,Basis,89,EUR
+C0188,Keller Garten- und Landschaftsbau,DE,Sanitaer/Heizung,West,2026-04-01,Active,Bundesweit,299,EUR
+C0189,Schmidt Bauunternehmung,DE,Dach,Nord,2025-07-01,Active,Basis,89,EUR
+C0190,Weber Dachbau KG,DE,GaLaBau,Ost,2026-02-01,Active,Basis,89,EUR
+C0191,Mueller Bauunternehmung,CH,Hochbau,Schweiz,2026-03-01,Churned,Basis,95,CHF
+C0192,Huber Haustechnik GmbH,DE,Elektro,Ost,2025-08-01,Active,Regional,149,EUR
+C0193,Wolf Bauunternehmung,DE,GaLaBau,Ost,2025-10-01,Active,Bundesweit,299,EUR
+C0194,Schmidt Haustechnik GmbH,DE,Maler,Nord,2025-07-01,Active,Basis,89,EUR
+C0195,Schwarz Tiefbau GmbH,DE,Maler,Nord,2025-08-01,Active,Bundesweit,299,EUR
+C0196,Neumann Tiefbau GmbH,DE,Sanitaer/Heizung,Sued,2026-06-01,Active,Basis,89,EUR
+C0197,Klein Tiefbau GmbH,DE,Hochbau,Sued,2026-04-01,Active,Bundesweit,299,EUR
+C0198,Mueller Malerbetrieb,AT,Hochbau,Oesterreich,2025-10-01,Active,Bundesweit,299,EUR
+C0199,Richter Elektro GmbH,DE,Elektro,Ost,2025-09-01,Churned,Regional,149,EUR
+C0200,Fischer Bau AG,DE,Maler,West,2025-04-01,Active,Regional,149,EUR
+C0201,Wolf Malerbetrieb,CH,GaLaBau,Schweiz,2026-05-01,Active,Regional,159,CHF
+C0202,Wagner Bau GmbH,CH,GaLaBau,Schweiz,2026-05-01,Active,Basis,95,CHF
+C0203,Hofer Bau AG,AT,Maler,Oesterreich,2026-05-01,Active,Bundesweit,299,EUR
+C0204,Koch Bau AG,DE,Maler,West,2025-02-01,Active,Basis,89,EUR
+C0205,Wagner Malerbetrieb,DE,Sanitaer/Heizung,Sued,2026-07-01,Active,Basis,89,EUR
+C0206,Huber Dachbau KG,DE,Elektro,Ost,2026-05-01,Active,Basis,89,EUR
+C0207,Neumann Bauunternehmung,DE,GaLaBau,Nord,2026-02-01,Active,Basis,89,EUR
+C0208,Hofer Bau AG,CH,Dach,Schweiz,2025-10-01,Active,Basis,95,CHF
+C0209,Neumann Bauunternehmung,DE,Dach,Ost,2025-06-01,Active,Bundesweit,299,EUR
+C0210,Klein Malerbetrieb,DE,Maler,Sued,2025-02-01,Active,Basis,89,EUR
+C0211,Koch Bau AG,DE,Dach,Sued,2025-02-01,Active,Basis,89,EUR
+C0212,Keller Haustechnik GmbH,DE,Elektro,Ost,2025-10-01,Churned,Basis,89,EUR
+C0213,Braun Dachbau KG,DE,GaLaBau,Nord,2026-05-01,Churned,Bundesweit,299,EUR
+C0214,Schwarz Elektro GmbH,DE,Tiefbau,Nord,2026-07-01,Active,Basis,89,EUR
+C0215,Richter Dachbau KG,AT,Maler,Oesterreich,2026-02-01,Active,Regional,149,EUR
+C0216,Becker Bau AG,AT,Elektro,Oesterreich,2025-10-01,Active,Regional,149,EUR
+C0217,Fischer Elektro GmbH,DE,Dach,Ost,2025-02-01,Active,Basis,89,EUR
+C0218,Hoffmann Malerbetrieb,AT,Dach,Oesterreich,2026-04-01,Active,Basis,89,EUR
+C0219,Fischer Elektro GmbH,DE,Maler,West,2025-12-01,Active,Basis,89,EUR
+C0220,Schmidt Bau GmbH,DE,Elektro,Nord,2025-07-01,Active,Regional,149,EUR
+C0221,Becker Bauunternehmung,DE,Elektro,Nord,2025-06-01,Active,Regional,149,EUR
+C0222,Mueller Tiefbau GmbH,DE,Sanitaer/Heizung,Ost,2025-10-01,Active,Bundesweit,299,EUR
+C0223,Schwarz Malerbetrieb,DE,GaLaBau,West,2025-04-01,Active,Regional,149,EUR
+C0224,Klein Bau AG,DE,Tiefbau,West,2025-03-01,Active,Basis,89,EUR
+C0225,Schwarz Bauunternehmung,CH,Elektro,Schweiz,2025-05-01,Active,Basis,95,CHF
+C0226,Hoffmann Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Ost,2026-01-01,Active,Bundesweit,299,EUR
+C0227,Klein Elektro GmbH,DE,Tiefbau,West,2026-01-01,Active,Bundesweit,299,EUR
+C0228,Huber Haustechnik GmbH,CH,Dach,Schweiz,2025-02-01,Active,Regional,159,CHF
+C0229,Klein Bau GmbH,AT,Maler,Oesterreich,2026-08-01,Active,Regional,149,EUR
+C0230,Koch Bau GmbH,AT,Maler,Oesterreich,2026-02-01,Active,Basis,89,EUR
+C0231,Schwarz Malerbetrieb,AT,Sanitaer/Heizung,Oesterreich,2026-02-01,Active,Basis,89,EUR
+C0232,Hoffmann Malerbetrieb,DE,Dach,Nord,2025-09-01,Active,Basis,89,EUR
+C0233,Weber Dachbau KG,DE,Sanitaer/Heizung,Sued,2026-07-01,Active,Regional,149,EUR
+C0234,Weber Bau AG,DE,Maler,Nord,2025-05-01,Active,Bundesweit,299,EUR
+C0235,Wagner Bau GmbH,DE,Dach,Sued,2025-11-01,Active,Regional,149,EUR
+C0236,Schwarz Dachbau KG,DE,Maler,Nord,2025-10-01,Churned,Basis,89,EUR
+C0237,Weber Haustechnik GmbH,CH,Tiefbau,Schweiz,2026-01-01,Active,Regional,159,CHF
+C0238,Keller Dachbau KG,DE,Elektro,Ost,2026-07-01,Active,Regional,149,EUR
+C0239,Koch Garten- und Landschaftsbau,DE,Tiefbau,Sued,2025-02-01,Active,Basis,89,EUR
+C0240,Wagner Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Ost,2025-11-01,Active,Bundesweit,299,EUR
+C0241,Klein Malerbetrieb,DE,Maler,Sued,2025-12-01,Active,Basis,89,EUR
+C0242,Huber Haustechnik GmbH,CH,GaLaBau,Schweiz,2025-10-01,Active,Basis,95,CHF
+C0243,Hoffmann Elektro GmbH,AT,Hochbau,Oesterreich,2026-05-01,Active,Regional,149,EUR
+C0244,Braun Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Nord,2025-10-01,Active,Bundesweit,299,EUR
+C0245,Koch Bauunternehmung,DE,GaLaBau,Ost,2025-12-01,Active,Basis,89,EUR
+C0246,Hoffmann Dachbau KG,DE,Dach,Nord,2026-07-01,Active,Basis,89,EUR
+C0247,Wagner Garten- und Landschaftsbau,DE,Dach,West,2025-11-01,Active,Basis,89,EUR
+C0248,Keller Haustechnik GmbH,DE,Dach,Nord,2025-07-01,Active,Basis,89,EUR
+C0249,Richter Bau GmbH,DE,Dach,Nord,2025-07-01,Active,Bundesweit,299,EUR
+C0250,Hoffmann Malerbetrieb,DE,Dach,Ost,2026-07-01,Active,Regional,149,EUR
+C0251,Koch Bauunternehmung,DE,Elektro,Nord,2026-09-01,Active,Regional,149,EUR
+C0252,Neumann Bau GmbH,DE,Hochbau,Sued,2025-03-01,Active,Basis,89,EUR
+C0253,Keller Elektro GmbH,AT,Maler,Oesterreich,2025-12-01,Active,Basis,89,EUR
+C0254,Huber Malerbetrieb,DE,Sanitaer/Heizung,Nord,2025-05-01,Active,Regional,149,EUR
+C0255,Mueller Malerbetrieb,DE,Maler,Sued,2025-11-01,Churned,Bundesweit,299,EUR
+C0256,Hoffmann Dachbau KG,AT,Elektro,Oesterreich,2025-08-01,Churned,Regional,149,EUR
+C0257,Huber Malerbetrieb,AT,Sanitaer/Heizung,Oesterreich,2025-11-01,Active,Basis,89,EUR
+C0258,Braun Bau GmbH,DE,Sanitaer/Heizung,Sued,2026-05-01,Active,Basis,89,EUR
+C0259,Neumann Bau AG,DE,Tiefbau,West,2026-07-01,Active,Regional,149,EUR
+C0260,Schmidt Dachbau KG,DE,Dach,Nord,2025-12-01,Active,Bundesweit,299,EUR
+C0261,Mueller Malerbetrieb,DE,GaLaBau,Sued,2026-01-01,Active,Basis,89,EUR
+C0262,Keller Haustechnik GmbH,DE,Tiefbau,West,2026-05-01,Active,Regional,149,EUR
+C0263,Weber Tiefbau GmbH,AT,Dach,Oesterreich,2026-04-01,Active,Basis,89,EUR
+C0264,Hoffmann Bauunternehmung,CH,Elektro,Schweiz,2025-05-01,Active,Bundesweit,319,CHF
+C0265,Hofer Tiefbau GmbH,DE,Elektro,West,2025-06-01,Active,Regional,149,EUR
+C0266,Wagner Bau AG,DE,Sanitaer/Heizung,Sued,2026-07-01,Active,Basis,89,EUR
+C0267,Wagner Dachbau KG,AT,Elektro,Oesterreich,2026-04-01,Active,Basis,89,EUR
+C0268,Fischer Tiefbau GmbH,DE,GaLaBau,West,2025-12-01,Active,Basis,89,EUR
+C0269,Koch Bauunternehmung,DE,Tiefbau,West,2026-07-01,Active,Basis,89,EUR
+C0270,Becker Bau AG,CH,Maler,Schweiz,2026-02-01,Active,Basis,95,CHF
+C0271,Hofer Tiefbau GmbH,CH,GaLaBau,Schweiz,2026-08-01,Active,Regional,159,CHF
+C0272,Wagner Malerbetrieb,DE,GaLaBau,Ost,2025-07-01,Active,Basis,89,EUR
+C0273,Klein Bau GmbH,DE,Elektro,Ost,2025-08-01,Active,Basis,89,EUR
+C0274,Klein Haustechnik GmbH,CH,Tiefbau,Schweiz,2025-03-01,Active,Basis,95,CHF
+C0275,Becker Garten- und Landschaftsbau,DE,GaLaBau,Nord,2025-06-01,Active,Regional,149,EUR
+C0276,Richter Malerbetrieb,DE,GaLaBau,Ost,2025-09-01,Active,Regional,149,EUR
+C0277,Wolf Garten- und Landschaftsbau,DE,Elektro,Nord,2025-09-01,Active,Basis,89,EUR
+C0278,Mueller Dachbau KG,CH,Dach,Schweiz,2025-11-01,Active,Basis,95,CHF
+C0279,Koch Malerbetrieb,DE,Tiefbau,Nord,2025-10-01,Active,Basis,89,EUR
+C0280,Klein Malerbetrieb,AT,Maler,Oesterreich,2025-03-01,Active,Basis,89,EUR
+C0281,Richter Haustechnik GmbH,CH,GaLaBau,Schweiz,2026-07-01,Active,Basis,95,CHF
+C0282,Hoffmann Bauunternehmung,CH,Elektro,Schweiz,2025-02-01,Active,Basis,95,CHF
+C0283,Fischer Bauunternehmung,DE,Hochbau,Sued,2025-12-01,Churned,Regional,149,EUR
+C0284,Schwarz Haustechnik GmbH,DE,Hochbau,West,2025-09-01,Active,Regional,149,EUR
+C0285,Schmidt Garten- und Landschaftsbau,DE,Dach,West,2025-11-01,Active,Basis,89,EUR
+C0286,Hofer Dachbau KG,DE,Hochbau,Nord,2025-10-01,Active,Bundesweit,299,EUR
+C0287,Mueller Malerbetrieb,DE,Tiefbau,Nord,2026-08-01,Active,Regional,149,EUR
+C0288,Huber Bau AG,DE,GaLaBau,Nord,2025-03-01,Churned,Regional,149,EUR
+C0289,Hoffmann Haustechnik GmbH,DE,GaLaBau,West,2025-12-01,Active,Regional,149,EUR
+C0290,Klein Malerbetrieb,DE,GaLaBau,Ost,2025-08-01,Active,Basis,89,EUR
+C0291,Hoffmann Bauunternehmung,CH,Dach,Schweiz,2026-04-01,Active,Regional,159,CHF
+C0292,Schmidt Haustechnik GmbH,CH,Dach,Schweiz,2026-07-01,Active,Basis,95,CHF
+C0293,Wagner Bau GmbH,DE,Tiefbau,Ost,2026-09-01,Active,Basis,89,EUR
+C0294,Hoffmann Bau GmbH,DE,GaLaBau,West,2025-05-01,Active,Basis,89,EUR
+C0295,Weber Dachbau KG,DE,Dach,Nord,2025-05-01,Churned,Basis,89,EUR
+C0296,Koch Elektro GmbH,DE,Hochbau,Ost,2025-06-01,Churned,Basis,89,EUR
+C0297,Hoffmann Garten- und Landschaftsbau,CH,Elektro,Schweiz,2025-05-01,Active,Regional,159,CHF
+C0298,Koch Bau AG,DE,Dach,Ost,2025-03-01,Active,Basis,89,EUR
+C0299,Richter Elektro GmbH,DE,Elektro,Nord,2026-03-01,Active,Basis,89,EUR
+C0300,Koch Bau AG,DE,Dach,Nord,2025-10-01,Active,Basis,89,EUR
+C0301,Braun Elektro GmbH,CH,Tiefbau,Schweiz,2026-05-01,Churned,Bundesweit,319,CHF
+C0302,Mueller Garten- und Landschaftsbau,DE,Hochbau,Sued,2026-08-01,Active,Bundesweit,299,EUR
+C0303,Fischer Malerbetrieb,DE,Dach,Ost,2026-06-01,Active,Basis,89,EUR
+C0304,Hofer Bau GmbH,DE,Dach,Nord,2026-03-01,Active,Bundesweit,299,EUR
+C0305,Weber Garten- und Landschaftsbau,DE,Maler,Sued,2026-02-01,Churned,Basis,89,EUR
+C0306,Neumann Bau GmbH,DE,Hochbau,Nord,2025-11-01,Active,Basis,89,EUR
+C0307,Neumann Haustechnik GmbH,DE,Maler,Ost,2026-09-01,Active,Basis,89,EUR
+C0308,Koch Bauunternehmung,DE,Hochbau,Nord,2026-07-01,Active,Regional,149,EUR
+C0309,Hofer Tiefbau GmbH,DE,Sanitaer/Heizung,Sued,2025-09-01,Active,Basis,89,EUR
+C0310,Wagner Malerbetrieb,DE,Elektro,Nord,2025-08-01,Active,Bundesweit,299,EUR
+C0311,Keller Bauunternehmung,DE,Dach,Nord,2025-11-01,Active,Regional,149,EUR
+C0312,Klein Haustechnik GmbH,DE,Tiefbau,Sued,2025-11-01,Active,Basis,89,EUR
+C0313,Huber Haustechnik GmbH,AT,Dach,Oesterreich,2025-06-01,Active,Regional,149,EUR
+C0314,Schmidt Haustechnik GmbH,CH,Maler,Schweiz,2025-06-01,Active,Basis,95,CHF
+C0315,Neumann Garten- und Landschaftsbau,DE,Tiefbau,West,2025-02-01,Active,Regional,149,EUR
+C0316,Hofer Garten- und Landschaftsbau,AT,Sanitaer/Heizung,Oesterreich,2026-03-01,Active,Basis,89,EUR
+C0317,Keller Tiefbau GmbH,DE,Hochbau,Sued,2026-03-01,Active,Regional,149,EUR
+C0318,Braun Dachbau KG,CH,Dach,Schweiz,2026-08-01,Active,Regional,159,CHF
+C0319,Becker Garten- und Landschaftsbau,DE,Elektro,Ost,2026-08-01,Active,Regional,149,EUR
+C0320,Richter Dachbau KG,DE,Maler,Nord,2025-11-01,Churned,Basis,89,EUR
+C0321,Koch Bau GmbH,AT,Hochbau,Oesterreich,2026-05-01,Active,Basis,89,EUR
+C0322,Richter Malerbetrieb,AT,Maler,Oesterreich,2026-05-01,Active,Bundesweit,299,EUR
+C0323,Richter Tiefbau GmbH,AT,Dach,Oesterreich,2026-01-01,Active,Regional,149,EUR
+C0324,Keller Dachbau KG,DE,Elektro,West,2025-03-01,Churned,Basis,89,EUR
+C0325,Keller Bauunternehmung,AT,Maler,Oesterreich,2026-03-01,Active,Basis,89,EUR
+C0326,Hofer Bauunternehmung,DE,Sanitaer/Heizung,Nord,2026-03-01,Active,Basis,89,EUR
+C0327,Schmidt Elektro GmbH,CH,Hochbau,Schweiz,2025-07-01,Active,Basis,95,CHF
+C0328,Fischer Elektro GmbH,DE,GaLaBau,Nord,2026-05-01,Active,Basis,89,EUR
+C0329,Hoffmann Dachbau KG,CH,Tiefbau,Schweiz,2025-07-01,Active,Basis,95,CHF
+C0330,Keller Malerbetrieb,CH,Elektro,Schweiz,2026-07-01,Active,Basis,95,CHF
+C0331,Braun Bau AG,DE,Sanitaer/Heizung,Sued,2026-04-01,Active,Regional,149,EUR
+C0332,Weber Malerbetrieb,CH,Maler,Schweiz,2025-05-01,Active,Basis,95,CHF
+C0333,Schwarz Garten- und Landschaftsbau,DE,Maler,Nord,2026-05-01,Active,Regional,149,EUR
+C0334,Huber Garten- und Landschaftsbau,DE,Dach,Nord,2025-07-01,Active,Basis,89,EUR
+C0335,Schmidt Bau AG,DE,Dach,Sued,2026-04-01,Active,Basis,89,EUR
+C0336,Hofer Elektro GmbH,DE,Elektro,Sued,2026-02-01,Active,Regional,149,EUR
+C0337,Schmidt Garten- und Landschaftsbau,DE,Hochbau,Ost,2026-06-01,Active,Basis,89,EUR
+C0338,Klein Garten- und Landschaftsbau,DE,Dach,West,2026-02-01,Active,Basis,89,EUR
+C0339,Huber Malerbetrieb,AT,GaLaBau,Oesterreich,2026-08-01,Active,Regional,149,EUR
+C0340,Neumann Dachbau KG,CH,Elektro,Schweiz,2026-06-01,Active,Basis,95,CHF
+C0341,Klein Bau AG,DE,Elektro,Nord,2025-06-01,Active,Basis,89,EUR
+C0342,Neumann Garten- und Landschaftsbau,DE,Tiefbau,West,2025-03-01,Active,Basis,89,EUR
+C0343,Schwarz Elektro GmbH,DE,GaLaBau,Nord,2026-07-01,Active,Basis,89,EUR
+C0344,Becker Bau GmbH,AT,Maler,Oesterreich,2025-04-01,Active,Regional,149,EUR
+C0345,Wagner Dachbau KG,AT,Sanitaer/Heizung,Oesterreich,2025-07-01,Active,Regional,149,EUR
+C0346,Mueller Dachbau KG,DE,Sanitaer/Heizung,West,2025-04-01,Active,Basis,89,EUR
+C0347,Huber Bau GmbH,AT,Hochbau,Oesterreich,2026-07-01,Active,Basis,89,EUR
+C0348,Huber Bau AG,CH,Tiefbau,Schweiz,2025-04-01,Active,Basis,95,CHF
+C0349,Schmidt Malerbetrieb,DE,GaLaBau,West,2025-12-01,Active,Regional,149,EUR
+C0350,Schmidt Bau GmbH,DE,Maler,Nord,2025-12-01,Active,Regional,149,EUR
+C0351,Schwarz Dachbau KG,CH,Elektro,Schweiz,2025-09-01,Churned,Basis,95,CHF
+C0352,Huber Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Sued,2025-11-01,Active,Basis,89,EUR
+C0353,Weber Bau AG,DE,Tiefbau,Ost,2025-05-01,Active,Basis,89,EUR
+C0354,Wolf Malerbetrieb,DE,Dach,Sued,2026-09-01,Active,Regional,149,EUR
+C0355,Hofer Elektro GmbH,CH,Elektro,Schweiz,2025-06-01,Active,Basis,95,CHF
+C0356,Keller Garten- und Landschaftsbau,AT,Sanitaer/Heizung,Oesterreich,2025-07-01,Churned,Basis,89,EUR
+C0357,Richter Dachbau KG,CH,Maler,Schweiz,2026-04-01,Active,Regional,159,CHF
+C0358,Wagner Bau GmbH,DE,Elektro,Sued,2026-03-01,Active,Bundesweit,299,EUR
+C0359,Wagner Tiefbau GmbH,CH,Maler,Schweiz,2025-09-01,Churned,Regional,159,CHF
+C0360,Schmidt Bau GmbH,DE,Elektro,Sued,2026-02-01,Active,Regional,149,EUR
+C0361,Keller Garten- und Landschaftsbau,DE,Tiefbau,Ost,2025-11-01,Active,Bundesweit,299,EUR
+C0362,Hofer Bau GmbH,DE,Tiefbau,West,2025-03-01,Active,Bundesweit,299,EUR
+C0363,Klein Haustechnik GmbH,DE,Sanitaer/Heizung,Sued,2025-07-01,Active,Basis,89,EUR
+C0364,Mueller Bauunternehmung,DE,Sanitaer/Heizung,West,2026-08-01,Active,Bundesweit,299,EUR
+C0365,Wolf Bau GmbH,DE,Maler,Ost,2025-04-01,Active,Basis,89,EUR
+C0366,Schwarz Bau AG,DE,Dach,Ost,2025-12-01,Active,Bundesweit,299,EUR
+C0367,Huber Garten- und Landschaftsbau,DE,Maler,Sued,2026-02-01,Active,Basis,89,EUR
+C0368,Braun Tiefbau GmbH,AT,GaLaBau,Oesterreich,2025-11-01,Active,Bundesweit,299,EUR
+C0369,Klein Bau GmbH,DE,GaLaBau,Ost,2025-04-01,Active,Basis,89,EUR
+C0370,Richter Tiefbau GmbH,DE,Elektro,Nord,2026-06-01,Active,Basis,89,EUR
+C0371,Richter Bau AG,DE,Dach,Nord,2025-05-01,Active,Regional,149,EUR
+C0372,Neumann Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Nord,2026-02-01,Active,Basis,89,EUR
+C0373,Becker Haustechnik GmbH,DE,Maler,Sued,2025-06-01,Active,Bundesweit,299,EUR
+C0374,Schwarz Bau GmbH,AT,Elektro,Oesterreich,2026-05-01,Active,Basis,89,EUR
+C0375,Huber Elektro GmbH,DE,Maler,Ost,2026-03-01,Active,Regional,149,EUR
+C0376,Neumann Malerbetrieb,DE,Maler,Nord,2026-03-01,Active,Regional,149,EUR
+C0377,Schwarz Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Sued,2025-11-01,Active,Regional,149,EUR
+C0378,Huber Bau AG,CH,Sanitaer/Heizung,Schweiz,2026-01-01,Active,Regional,159,CHF
+C0379,Fischer Elektro GmbH,DE,Hochbau,Ost,2025-11-01,Active,Basis,89,EUR
+C0380,Hofer Bau AG,DE,Hochbau,Ost,2025-10-01,Active,Bundesweit,299,EUR
+C0381,Fischer Bauunternehmung,AT,Hochbau,Oesterreich,2026-09-01,Active,Regional,149,EUR
+C0382,Wolf Dachbau KG,DE,GaLaBau,Sued,2025-05-01,Active,Bundesweit,299,EUR
+C0383,Braun Malerbetrieb,DE,Sanitaer/Heizung,West,2026-01-01,Active,Regional,149,EUR
+C0384,Klein Tiefbau GmbH,DE,Elektro,West,2025-02-01,Active,Basis,89,EUR
+C0385,Hofer Tiefbau GmbH,DE,Sanitaer/Heizung,West,2026-06-01,Active,Regional,149,EUR
+C0386,Klein Elektro GmbH,AT,Hochbau,Oesterreich,2026-02-01,Active,Regional,149,EUR
+C0387,Richter Elektro GmbH,DE,Sanitaer/Heizung,West,2026-06-01,Active,Regional,149,EUR
+C0388,Fischer Malerbetrieb,AT,Elektro,Oesterreich,2026-03-01,Active,Bundesweit,299,EUR
+C0389,Koch Tiefbau GmbH,DE,Elektro,Nord,2026-04-01,Active,Basis,89,EUR
+C0390,Braun Bau AG,DE,Hochbau,Sued,2026-02-01,Active,Regional,149,EUR
+C0391,Schwarz Dachbau KG,DE,GaLaBau,Sued,2026-05-01,Active,Basis,89,EUR
+C0392,Huber Malerbetrieb,DE,Tiefbau,Ost,2026-04-01,Active,Regional,149,EUR
+C0393,Becker Bauunternehmung,CH,Elektro,Schweiz,2026-06-01,Active,Bundesweit,319,CHF
+C0394,Huber Bau GmbH,CH,Hochbau,Schweiz,2025-05-01,Active,Regional,159,CHF
+C0395,Schwarz Tiefbau GmbH,DE,GaLaBau,Nord,2025-03-01,Active,Basis,89,EUR
+C0396,Schmidt Bauunternehmung,DE,Tiefbau,Ost,2025-10-01,Active,Regional,149,EUR
+C0397,Mueller Dachbau KG,AT,Sanitaer/Heizung,Oesterreich,2026-06-01,Active,Bundesweit,299,EUR
+C0398,Braun Haustechnik GmbH,DE,Hochbau,Ost,2025-04-01,Active,Bundesweit,299,EUR
+C0399,Fischer Dachbau KG,DE,Hochbau,West,2025-07-01,Active,Basis,89,EUR
+C0400,Koch Bauunternehmung,DE,Dach,Ost,2025-04-01,Active,Basis,89,EUR
+C0401,Hofer Dachbau KG,CH,Maler,Schweiz,2026-07-01,Churned,Basis,95,CHF
+C0402,Keller Tiefbau GmbH,CH,Maler,Schweiz,2025-02-01,Active,Basis,95,CHF
+C0403,Mueller Bau GmbH,CH,Maler,Schweiz,2025-10-01,Active,Bundesweit,319,CHF
+C0404,Neumann Garten- und Landschaftsbau,DE,Sanitaer/Heizung,Ost,2026-02-01,Active,Regional,149,EUR
+C0405,Mueller Dachbau KG,DE,Maler,Ost,2025-07-01,Churned,Regional,149,EUR
+C0406,Hoffmann Bau GmbH,CH,Tiefbau,Schweiz,2026-01-01,Active,Basis,95,CHF
+C0407,Becker Bau AG,CH,GaLaBau,Schweiz,2026-02-01,Active,Basis,95,CHF
+C0408,Schmidt Tiefbau GmbH,DE,Dach,Nord,2025-06-01,Active,Basis,89,EUR
+C0409,Richter Garten- und Landschaftsbau,AT,GaLaBau,Oesterreich,2026-03-01,Active,Basis,89,EUR
+C0410,Koch Elektro GmbH,DE,Tiefbau,Nord,2026-02-01,Active,Basis,89,EUR
+C0411,Hofer Bau AG,DE,Hochbau,Nord,2025-05-01,Active,Regional,149,EUR
+C0412,Hofer Garten- und Landschaftsbau,CH,Dach,Schweiz,2025-03-01,Active,Basis,95,CHF
+C0413,Wolf Bau GmbH,AT,Dach,Oesterreich,2026-09-01,Active,Regional,149,EUR
+C0414,Neumann Dachbau KG,DE,GaLaBau,Sued,2025-05-01,Active,Basis,89,EUR
+C0415,Wagner Bau GmbH,CH,Tiefbau,Schweiz,2025-06-01,Churned,Basis,95,CHF
+C0416,Hofer Tiefbau GmbH,DE,Sanitaer/Heizung,Nord,2026-03-01,Active,Basis,89,EUR
+C0417,Wolf Haustechnik GmbH,DE,Hochbau,West,2026-09-01,Active,Basis,89,EUR
+C0418,Koch Elektro GmbH,DE,Dach,Nord,2026-05-01,Churned,Basis,89,EUR
+C0419,Becker Bau GmbH,DE,Elektro,Sued,2026-05-01,Active,Regional,149,EUR
+C0420,Fischer Tiefbau GmbH,DE,Tiefbau,West,2025-02-01,Active,Regional,149,EUR
+C0421,Wagner Elektro GmbH,DE,Tiefbau,Sued,2026-01-01,Active,Regional,149,EUR
+C0422,Richter Haustechnik GmbH,DE,Sanitaer/Heizung,West,2025-12-01,Active,Regional,149,EUR
+C0423,Huber Malerbetrieb,DE,Elektro,Ost,2025-08-01,Active,Regional,149,EUR
+C0424,Schmidt Malerbetrieb,DE,GaLaBau,Nord,2025-08-01,Active,Basis,89,EUR
+C0425,Koch Dachbau KG,DE,Maler,Ost,2026-04-01,Active,Basis,89,EUR
+C0426,Klein Dachbau KG,DE,Tiefbau,Nord,2025-11-01,Active,Regional,149,EUR
+C0427,Klein Dachbau KG,AT,Sanitaer/Heizung,Oesterreich,2025-06-01,Churned,Bundesweit,299,EUR
+C0428,Keller Haustechnik GmbH,DE,Sanitaer/Heizung,Ost,2026-02-01,Churned,Regional,149,EUR
+C0429,Neumann Haustechnik GmbH,DE,GaLaBau,Sued,2025-08-01,Active,Basis,89,EUR
+C0430,Neumann Tiefbau GmbH,CH,Tiefbau,Schweiz,2025-11-01,Churned,Bundesweit,319,CHF
+C0431,Schmidt Haustechnik GmbH,DE,Tiefbau,Ost,2026-07-01,Active,Basis,89,EUR
+C0432,Wolf Malerbetrieb,CH,Maler,Schweiz,2025-12-01,Active,Regional,159,CHF
+C0433,Wolf Garten- und Landschaftsbau,CH,Dach,Schweiz,2025-04-01,Churned,Basis,95,CHF
+C0434,Mueller Haustechnik GmbH,DE,Dach,Nord,2025-06-01,Active,Regional,149,EUR
+C0435,Keller Tiefbau GmbH,DE,GaLaBau,Ost,2026-09-01,Active,Regional,149,EUR
+C0436,Klein Garten- und Landschaftsbau,CH,GaLaBau,Schweiz,2026-04-01,Active,Basis,95,CHF
+C0437,Weber Elektro GmbH,AT,Dach,Oesterreich,2025-07-01,Active,Basis,89,EUR
+C0438,Hofer Garten- und Landschaftsbau,DE,Elektro,Nord,2026-01-01,Active,Basis,89,EUR
+C0439,Fischer Haustechnik GmbH,AT,Elektro,Oesterreich,2025-08-01,Churned,Basis,89,EUR
+C0440,Huber Dachbau KG,DE,Sanitaer/Heizung,Ost,2026-05-01,Active,Basis,89,EUR
+C0441,Klein Bau AG,DE,GaLaBau,Nord,2026-09-01,Active,Basis,89,EUR
+C0442,Schwarz Dachbau KG,AT,Dach,Oesterreich,2025-07-01,Active,Basis,89,EUR
+C0443,Wolf Tiefbau GmbH,DE,GaLaBau,Nord,2025-03-01,Active,Regional,149,EUR
+C0444,Fischer Tiefbau GmbH,DE,Elektro,Sued,2026-07-01,Active,Basis,89,EUR
+C0445,Huber Bau AG,DE,Maler,Ost,2025-12-01,Active,Basis,89,EUR
+C0446,Huber Bau AG,DE,Elektro,Sued,2025-10-01,Active,Bundesweit,299,EUR
+C0447,Mueller Bau AG,DE,Elektro,Ost,2026-02-01,Churned,Regional,149,EUR
+C0448,Schmidt Bauunternehmung,DE,Sanitaer/Heizung,Ost,2025-09-01,Active,Regional,149,EUR
+C0449,Schwarz Bauunternehmung,CH,Elektro,Schweiz,2025-11-01,Active,Regional,159,CHF
+C0450,Klein Malerbetrieb,DE,Maler,Nord,2025-04-01,Active,Bundesweit,299,EUR
+C0451,Schwarz Malerbetrieb,DE,Elektro,Ost,2025-04-01,Active,Bundesweit,299,EUR
+C0452,Huber Elektro GmbH,DE,Tiefbau,Ost,2026-07-01,Active,Regional,149,EUR
+C0453,Neumann Bauunternehmung,CH,Maler,Schweiz,2025-02-01,Active,Basis,95,CHF
+C0454,Weber Garten- und Landschaftsbau,DE,Dach,West,2025-03-01,Churned,Regional,149,EUR
+C0455,Hoffmann Garten- und Landschaftsbau,AT,Maler,Oesterreich,2025-04-01,Active,Regional,149,EUR
+C0456,Braun Haustechnik GmbH,DE,Tiefbau,Sued,2026-05-01,Active,Basis,89,EUR
+C0457,Becker Bau AG,DE,Elektro,Sued,2025-08-01,Active,Basis,89,EUR
+C0458,Richter Bau GmbH,DE,Maler,Nord,2025-10-01,Churned,Basis,89,EUR
+C0459,Neumann Tiefbau GmbH,DE,Sanitaer/Heizung,Nord,2025-05-01,Active,Basis,89,EUR
+C0460,Neumann Malerbetrieb,DE,GaLaBau,Ost,2026-02-01,Active,Regional,149,EUR
+C0461,Wolf Bau GmbH,DE,Maler,Ost,2026-06-01,Active,Basis,89,EUR
+C0462,Fischer Garten- und Landschaftsbau,DE,Elektro,Nord,2025-12-01,Active,Regional,149,EUR
+C0463,Huber Bau AG,DE,Elektro,Sued,2026-06-01,Active,Bundesweit,299,EUR
+C0464,Fischer Malerbetrieb,AT,Maler,Oesterreich,2026-07-01,Active,Bundesweit,299,EUR
+C0465,Wagner Bauunternehmung,DE,Maler,Sued,2025-08-01,Active,Basis,89,EUR
+C0466,Wolf Elektro GmbH,AT,Maler,Oesterreich,2025-04-01,Active,Regional,149,EUR
+C0467,Schwarz Bau GmbH,CH,Elektro,Schweiz,2026-08-01,Active,Basis,95,CHF
+C0468,Schwarz Bau GmbH,DE,GaLaBau,Sued,2026-02-01,Active,Bundesweit,299,EUR
+C0469,Wolf Dachbau KG,CH,GaLaBau,Schweiz,2025-12-01,Active,Basis,95,CHF
+C0470,Huber Garten- und Landschaftsbau,CH,Elektro,Schweiz,2025-05-01,Active,Basis,95,CHF
+C0471,Schmidt Dachbau KG,CH,Dach,Schweiz,2025-07-01,Active,Bundesweit,319,CHF
+C0472,Mueller Tiefbau GmbH,DE,Maler,Sued,2026-04-01,Active,Regional,149,EUR
+C0473,Schmidt Bau AG,CH,Tiefbau,Schweiz,2025-05-01,Active,Regional,159,CHF
+C0474,Schwarz Bau AG,DE,Sanitaer/Heizung,West,2026-09-01,Active,Bundesweit,299,EUR
+C0475,Fischer Bau AG,DE,Hochbau,Ost,2025-10-01,Churned,Regional,149,EUR
+C0476,Keller Malerbetrieb,DE,Hochbau,Sued,2025-02-01,Active,Regional,149,EUR
+C0477,Fischer Bauunternehmung,DE,Elektro,Nord,2025-08-01,Active,Bundesweit,299,EUR
+C0478,Hofer Haustechnik GmbH,DE,GaLaBau,Sued,2026-03-01,Active,Bundesweit,299,EUR
+C0479,Fischer Bau GmbH,DE,Tiefbau,West,2026-06-01,Active,Bundesweit,299,EUR
+C0480,Becker Garten- und Landschaftsbau,DE,Dach,Sued,2025-11-01,Active,Bundesweit,299,EUR
+C0481,Neumann Bauunternehmung,DE,GaLaBau,West,2026-03-01,Active,Bundesweit,299,EUR
+C0482,Neumann Tiefbau GmbH,DE,Sanitaer/Heizung,Sued,2025-12-01,Active,Regional,149,EUR
+C0483,Klein Bauunternehmung,DE,Elektro,Sued,2025-10-01,Active,Basis,89,EUR
+C0484,Richter Bau GmbH,DE,Maler,Nord,2025-07-01,Active,Basis,89,EUR
+C0485,Weber Dachbau KG,DE,Dach,West,2025-09-01,Active,Regional,149,EUR
+C0486,Braun Bauunternehmung,AT,Maler,Oesterreich,2025-04-01,Churned,Regional,149,EUR
+C0487,Mueller Elektro GmbH,DE,Sanitaer/Heizung,Ost,2026-06-01,Active,Regional,149,EUR
+C0488,Keller Bau GmbH,AT,GaLaBau,Oesterreich,2026-03-01,Active,Regional,149,EUR
+C0489,Neumann Bau GmbH,DE,Dach,Sued,2026-06-01,Active,Bundesweit,299,EUR
+C0490,Mueller Garten- und Landschaftsbau,DE,Tiefbau,Sued,2026-01-01,Active,Bundesweit,299,EUR
+C0491,Huber Bau GmbH,CH,Elektro,Schweiz,2026-06-01,Active,Regional,159,CHF
+C0492,Braun Malerbetrieb,DE,Tiefbau,Ost,2025-12-01,Churned,Basis,89,EUR
+C0493,Braun Haustechnik GmbH,DE,GaLaBau,Sued,2026-03-01,Active,Basis,89,EUR
+C0494,Hoffmann Bau AG,AT,Tiefbau,Oesterreich,2025-05-01,Churned,Bundesweit,299,EUR
+C0495,Huber Bauunternehmung,DE,Dach,Sued,2026-02-01,Active,Basis,89,EUR
+C0496,Mueller Garten- und Landschaftsbau,AT,Dach,Oesterreich,2025-06-01,Active,Regional,149,EUR
+C0497,Wagner Elektro GmbH,DE,Hochbau,Ost,2025-04-01,Active,Regional,149,EUR
+C0498,Keller Garten- und Landschaftsbau,DE,Maler,Nord,2025-10-01,Active,Bundesweit,299,EUR
+C0499,Wolf Elektro GmbH,DE,Elektro,Nord,2025-10-01,Churned,Basis,89,EUR
+C0500,Wagner Tiefbau GmbH,DE,Elektro,Nord,2026-03-01,Churned,Basis,89,EUR
